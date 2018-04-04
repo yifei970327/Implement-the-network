@@ -1,0 +1,18 @@
+#!wing
+#!version=6.0
+##################################################################
+# Wing IDE project file                                          #
+##################################################################
+[project attributes]
+proj.file-list = [loc('config.json'),
+                  loc('datagram.py'),
+                  loc('IP.py'),
+                  loc('my_socket.py'),
+                  loc('TCP.py'),
+                  loc('TCP_segment.py'),
+                  loc('testIP.py'),
+                  loc('testLink.py'),
+                  loc('testUDP.py'),
+                  loc('UDP.py'),
+                  loc('UDP_segment.py')]
+proj.file-type = 'shared'
